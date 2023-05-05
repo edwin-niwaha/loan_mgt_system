@@ -6,18 +6,38 @@
 * composer global require laravel/installer
 * then the message appears...
 * Changing directory to C:\Users\USER\AppData\Roaming\Composer\vendor\bin
-5. create laravel project using
-* laravel new project-name
-6. composer require laravel/ui --dev
-    <i>Note: Laravel UI Composer package is a new first-party package that extracts the UI portion of a Laravel project ( frontend scaffolding typically provided with previous releases of Laravel ) into a separate laravel/ui package. The separate package enables the Laravel team to update, develop and version UI scaffolding package separately from the primary framework and the main Laravel codebase.</i>
 
-7.   php artisan ui bootstrap --auth 
+5. Create laravel project:
+<b>Step 1: Install Laravel</b>
+Open terminal and run the following command to install a fresh Laravel project:
+* composer create-project laravel/laravel project-name
+
+Or, if you have installed the Laravel Installer as a global composer dependency, then run the following command:
+* laravel new project-name
+
+<b>Step 2: Install Laravel UI</b>
+While Laravel does not dictate which JavaScript or CSS pre-processors you use, it does provide a basic starting point using Bootstrap, React, and Vue that will be helpful for many applications. By default, Laravel uses NPM to install both of these frontend packages.
+* composer require laravel/ui
+
+<b>Step 3: Install React or Install React with Auth</b>
+Once the Laravel/UI package has been installed, you may install the frontend scaffolding using the UI Artisan command:
+* php artisan ui react
+
+Or, if you would like to install login and registration of particular javascript frameworks or libraries, you need to run the following command:
+* php artisan ui react --auth
 * || php artisan ui vue --auth 
-* || php artisan ui react --auth
-* || php artisan ui bootstrap
-* || then run [npm install && npm run dev] to compile your fresh  scaffolding.
-* <i>login and register links will appear on home page</i>
+* || php artisan ui bootstrap --auth
+
+<b>Step 4: Install the required package dependency</b>
+To install react package dependency in your project, run the below command into your terminal.
+* npm install
+and
+* npm run dev
+
+<b>Step 5: Test in localhost</b>
+
 8. create mysql db
 9. php artisan migrate
-10. Happy coding
+
+****** Happy coding ******
 

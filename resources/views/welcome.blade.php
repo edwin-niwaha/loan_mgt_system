@@ -33,7 +33,7 @@
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center">
-                    <img src="/svg.jpg" alt="" />
+                    <img src="/assets/svg.jpg" alt="" />
                 </div>
                 <div class="flex justify-center">
                     LOAN MANAGEMENT SYSTEM
@@ -52,7 +52,7 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Documentation</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae perspiciatis ab inventore adipisci sequi sapiente placeat modi sit quos voluptatum. Numquam rerum distinctio facilis dolor similique ipsa dicta deserunt repellendus!
+                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, sunt suscipit! Sed alias dolor cumque, voluptates fugit aut?
                             </p>
                             </div>
 
@@ -72,7 +72,7 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Laracasts</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae perspiciatis ab inventore adipisci sequi sapiente placeat modi sit quos voluptatum. Numquam rerum distinctio facilis dolor similique ipsa dicta deserunt repellendus!
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, sunt suscipit! Sed alias dolor cumque, voluptates fugit aut?
                                 </p>
                             </div>
 
@@ -92,7 +92,7 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Laravel News</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae perspiciatis ab inventore adipisci sequi sapiente placeat modi sit quos voluptatum. Numquam rerum distinctio facilis dolor similique ipsa dicta deserunt repellendus!
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, sunt suscipit! Sed alias dolor cumque, voluptates fugit aut?
                                 </p>
                             </div>
 
@@ -112,7 +112,7 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Vibrant Ecosystem</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae perspiciatis ab inventore adipisci sequi sapiente placeat modi sit quos voluptatum. Numquam rerum distinctio facilis dolor similique ipsa dicta deserunt repellendus!
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet, sunt suscipit! Sed alias dolor cumque, voluptates fugit aut?
                                 </p>
                             </div>
                         </div>
