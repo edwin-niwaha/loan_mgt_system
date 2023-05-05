@@ -38,6 +38,6 @@ and
 
 8. create mysql db
 9. php artisan migrate
+10. Happy coding
 
-****** Happy coding ******
-
+# ****** Happy coding ******
